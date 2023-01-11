@@ -1,0 +1,33 @@
+.article {
+  margin-bottom: 20px;
+  background: #fff;
+  text-align: center;
+}
+
+.article-content {
+  padding: 25px 10px 30px;
+}
+
+.article-title {
+  margin-bottom: 50px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 23px;
+}
+
+.article-title.large {
+  font-family: "DM Serif Display", serif;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.article-info {
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+
+.article-info-time {
+  color: #b3b3b3;
+}

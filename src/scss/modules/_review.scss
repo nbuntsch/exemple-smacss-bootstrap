@@ -1,0 +1,42 @@
+.review {
+  margin-bottom: 20px;
+  padding: 25px 20px 30px;
+  background: #fff;
+}
+
+.review-artist {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 23px;
+}
+
+.review-artist.large {
+  font-family: "DM Serif Display", serif;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.review-album {
+  margin-bottom: 20px;
+  font-size: 18px;
+  line-height: 23px;
+}
+
+.review-album.large {
+  font-family: "DM Serif Display", serif;
+  font-size: 22px;
+  font-style: italic;
+  line-height: 26px;
+}
+
+.review-info {
+  margin-bottom: 20px;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+
+.review-body {
+  font-weight: 300;
+}
